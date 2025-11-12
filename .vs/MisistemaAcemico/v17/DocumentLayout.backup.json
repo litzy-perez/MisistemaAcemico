@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\formularios\\forreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\formularios\\forreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\clases\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\clases\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\formularios\\forreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\formularios\\forreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\clases\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\clases\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\clases\\periodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\clases\\periodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|c:\\users\\mineducyt\\onedrive\\desktop\\misistemaacemico\\misistemaacemico\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F592BD0-3A12-4A37-983E-3F880142A396}|MisistemaAcemico\\MisistemaAcemico.csproj|solutionrelative:misistemaacemico\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ForReporte.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "RelativeDocumentMoniker": "MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "RelativeToolTip": "MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "MisistemaAcemico\\Clases\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Inscripcion.cs",
+              "RelativeToolTip": "MisistemaAcemico\\Clases\\Inscripcion.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:45:50.364Z",
+              "WhenOpened": "2025-11-12T06:47:20.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ForReporte.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "RelativeDocumentMoniker": "MisistemaAcemico\\Formularios\\ForReporte.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Formularios\\ForReporte.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MisistemaAcemico\\Formularios\\ForReporte.cs [Dise\u00F1o]",
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Calificacion.cs",
+              "RelativeDocumentMoniker": "MisistemaAcemico\\Clases\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Calificacion.cs",
+              "RelativeToolTip": "MisistemaAcemico\\Clases\\Calificacion.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAmwOcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T23:45:43.493Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-12T06:26:41.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MisistemaAcemico\\Clases\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Estudiante.cs",
+              "RelativeToolTip": "MisistemaAcemico\\Clases\\Estudiante.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:23:36.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Periodo.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Periodo.cs",
+              "RelativeDocumentMoniker": "MisistemaAcemico\\Clases\\Periodo.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Periodo.cs",
+              "RelativeToolTip": "MisistemaAcemico\\Clases\\Periodo.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwGQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:17:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "MisistemaAcemico\\Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\OneDrive\\Desktop\\MisistemaAcemico\\MisistemaAcemico\\Clases\\Carrera.cs",
+              "RelativeToolTip": "MisistemaAcemico\\Clases\\Carrera.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:11:29.204Z",
+              "EditorCaption": ""
             }
           ]
         }

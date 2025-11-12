@@ -1,0 +1,203 @@
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.exe
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.deps.json
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.runtimeconfig.json
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.pdb
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.AssemblyReference.cache
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormPrincipal.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.GenerateResource.cache
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.AssemblyInfoInputs.cache
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.AssemblyInfo.cs
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.CoreCompileInputs.cache
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\Misistem.068F4D17.Up2Date
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\refint\MisistemaAcemico.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.pdb
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.genruntimeconfig.cache
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\ref\MisistemaAcemico.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormAsignaturas.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormCalificaciones.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormEstudiantes.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormInscripciones.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormPeriodos.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\BitMiracle.LibTiff.NET.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\IronSoftware.Drawing.Abstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\IronSoftware.Drawing.Common.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfocr.api.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.Properties.Resources.resources
+C:\Users\David Jimenes\source\repos\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.Formularios.ForReporte.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.exe
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.deps.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\MisistemaAcemico.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\BitMiracle.LibTiff.NET.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\IronSoftware.Drawing.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\IronSoftware.Drawing.Common.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\itext.pdfocr.api.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormPrincipal.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormAsignaturas.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormCalificaciones.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormEstudiantes.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormInscripciones.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.FormPeriodos.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.Formularios.ForReporte.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.sourcelink.json
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\Misistem.068F4D17.Up2Date
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\refint\MisistemaAcemico.dll
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.pdb
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\MisistemaAcemico.genruntimeconfig.cache
+C:\Users\MINEDUCYT\OneDrive\Desktop\MisistemaAcemico\MisistemaAcemico\obj\Debug\net8.0-windows\ref\MisistemaAcemico.dll

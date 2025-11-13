@@ -34,6 +34,7 @@
             btnBuscarEst = new Button();
             btnCargarDatos = new Button();
             dgvReportes = new DataGridView();
+            btnExportarPDF = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvReportes).BeginInit();
             SuspendLayout();
             // 
@@ -87,17 +88,28 @@
             // dgvReportes
             // 
             dgvReportes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvReportes.Location = new Point(12, 95);
+            dgvReportes.Location = new Point(12, 94);
             dgvReportes.Name = "dgvReportes";
             dgvReportes.Size = new Size(715, 235);
             dgvReportes.TabIndex = 11;
+            // 
+            // btnExportarPDF
+            // 
+            btnExportarPDF.Location = new Point(316, 345);
+            btnExportarPDF.Name = "btnExportarPDF";
+            btnExportarPDF.Size = new Size(118, 23);
+            btnExportarPDF.TabIndex = 12;
+            btnExportarPDF.Text = "Generar Reporte";
+            btnExportarPDF.UseVisualStyleBackColor = true;
+            btnExportarPDF.Click += btnExportarPDF_Click;
             // 
             // ForReporte
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Fondo__1_;
-            ClientSize = new Size(748, 362);
+            ClientSize = new Size(748, 380);
+            Controls.Add(btnExportarPDF);
             Controls.Add(dgvReportes);
             Controls.Add(btnCargarDatos);
             Controls.Add(btnBuscarEst);
@@ -126,5 +138,6 @@
         private System.Windows.Forms.ComboBox cboEstado;
         private System.Windows.Forms.Button btnCargarDatos;
         private System.Windows.Forms.DataGridView dgvReportes;
+        private Button btnExportarPDF;
     }
 }

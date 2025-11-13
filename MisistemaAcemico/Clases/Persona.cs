@@ -23,7 +23,6 @@
             Apellidos = apels;
         }
 
-        // Método virtual para polimorfismo
         public virtual void MostrarInfo()
         {
             MessageBox.Show($"{Nombres} {Apellidos}");

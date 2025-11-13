@@ -194,7 +194,7 @@ namespace MisistemaAcemico
             cboEstudiante.SelectedIndex = -1;
             cboAsignatura.SelectedIndex = -1;
             cboPeriodo.SelectedIndex = -1;
-            cboCarrera.SelectedIndex = -1; // <-- Limpiar también la carrera
+            cboCarrera.SelectedIndex = -1; 
         }
     }
 }

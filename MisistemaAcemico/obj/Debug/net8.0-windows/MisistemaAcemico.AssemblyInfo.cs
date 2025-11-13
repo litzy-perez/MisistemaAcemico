@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MisistemaAcemico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0252c3ea6dcb44cc8b71ace1e3a1a3999827cfa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MisistemaAcemico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MisistemaAcemico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

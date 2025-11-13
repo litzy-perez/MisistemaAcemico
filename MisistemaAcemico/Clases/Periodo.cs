@@ -29,7 +29,7 @@ namespace MisistemaAcemico.Clases
             set { ciclo = value ?? ""; }
         }
 
-        // Constructor vacío
+        
         public Periodo() { }
 
         // Obtener todos los períodos

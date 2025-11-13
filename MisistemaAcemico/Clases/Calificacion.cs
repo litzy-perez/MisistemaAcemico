@@ -11,7 +11,7 @@ namespace MisistemaAcemico.Clases
         private int id_inscripcion;
         private double nota;
 
-        // Campos para el sistema antiguo (una sola nota)
+        // Campos para el sistema una sola nota)
         public int Id_calificacion { get => id_calificacion; set => id_calificacion = value; }
         public int Id_inscripcion { get => id_inscripcion; set => id_inscripcion = value; }
         public double Nota
